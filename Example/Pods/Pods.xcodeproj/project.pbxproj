@@ -189,10 +189,10 @@
 		CC85D93A6D3A12669460DB7BFB60C1F5 /* dog */ = {
 			isa = PBXGroup;
 			children = (
+				6F4AECAF2992771100BCD4CA /* Dog.swift */,
 				96B9708D1DB2FFC09D3DD6720E8FB891 /* ReplaceMe.swift */,
 				B033F84AE152FE4456E2A6E3C5686267 /* Pod */,
 				47D6C3BE5D686F73C98D1AF2D1332F85 /* Support Files */,
-				6F4AECAF2992771100BCD4CA /* Dog.swift */,
 			);
 			name = dog;
 			path = ../..;
