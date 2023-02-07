@@ -1,0 +1,16 @@
+PODS:
+  - dog (0.1.0)
+
+DEPENDENCIES:
+  - dog (from `../`)
+
+EXTERNAL SOURCES:
+  dog:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  dog: 661f0ca92ac1e644e622f022dde7a2550b50775c
+
+PODFILE CHECKSUM: dfd577884d7d6038a71886cb8cab9395f25dc38c
+
+COCOAPODS: 1.11.3
