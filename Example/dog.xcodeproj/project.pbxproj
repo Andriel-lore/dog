@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		1CF7225036913E5B7AD1115F /* Pods-dog_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-dog_Example.debug.xcconfig"; path = "Target Support Files/Pods-dog_Example/Pods-dog_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		28AEE4FC3A3B6E9AFB294524 /* dog.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = dog.podspec; path = ../dog.podspec; sourceTree = "<group>"; };
+		28AEE4FC3A3B6E9AFB294524 /* dog.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = dog.podspec; path = ../dog.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* dog_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dog_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
