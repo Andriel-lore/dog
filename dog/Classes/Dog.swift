@@ -8,4 +8,8 @@ public class Dog {
     public func bark(){
         print("hav hav")
     }
+    
+    public func bark2(){
+        print("aaaa")
+    }
 }
